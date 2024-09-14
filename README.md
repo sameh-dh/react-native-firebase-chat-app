@@ -17,7 +17,7 @@ npx create-expo-app --template blank
 
 ```bash
 
- documentation link : https://www.nativewind.dev/quick-starts/expo
+ documentation link : https://www.nativewind.dev/quick-starts/expo;
 
 ```
 
@@ -26,5 +26,14 @@ npx create-expo-app --template blank
 ```bash
 
 npm start
+
+```
+
+
+## [Authentication](https://docs.expo.dev/router/reference/authentication/)
+
+```bash
+
+documentation link : https://docs.expo.dev/router/reference/authentication/;
 
 ```
