@@ -36,4 +36,7 @@ npm start
 
 documentation link : https://docs.expo.dev/router/reference/authentication/;
 
+# what is the authentication context:
+# a method where the authentication process considers multiple factors or contexts. These can include the user's location, device type, time of access, and more
+
 ```
